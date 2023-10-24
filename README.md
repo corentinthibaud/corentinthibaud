@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-I am a student, a developper oriented on C and website languages, founder of <a href="https://simplachat.fr">Simpl'Achat</a> and a streamer (<a href="https://twitch.tv/cocomclive">@CocoMCLive</a>)!
+I am a student, a developper oriented on C and website languages and a streamer (<a href="https://twitch.tv/cocomclive">@CocoMCLive</a>)!
 
 ## What am I using the most?
 
